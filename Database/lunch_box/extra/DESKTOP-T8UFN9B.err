@@ -1,0 +1,1243 @@
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+190111 21:46:46  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+190111 21:46:46  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 24 MB
+InnoDB: Database physically writes the file full: wait...
+190111 21:46:46  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 24 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+190111 21:46:47  InnoDB: Started; log sequence number 0 0
+190111 21:46:48 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190111 23:47:05 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190111 23:47:05  InnoDB: Starting shutdown...
+190111 23:47:08  InnoDB: Shutdown completed; log sequence number 0 55731
+190111 23:47:09 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190112  7:26:43  InnoDB: Started; log sequence number 0 55731
+190112  7:26:47 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190112  8:03:14 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190112  8:03:15  InnoDB: Starting shutdown...
+190112  8:03:17  InnoDB: Shutdown completed; log sequence number 0 55731
+190112  8:03:17 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190112 14:24:28  InnoDB: Started; log sequence number 0 55731
+190112 14:24:38 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190112 15:37:20 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190112 15:37:20  InnoDB: Starting shutdown...
+190112 15:37:23  InnoDB: Shutdown completed; log sequence number 0 55731
+190112 15:37:23 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190112 18:03:38  InnoDB: Started; log sequence number 0 55731
+190112 18:03:44 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190112 20:57:26 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190112 20:57:28 [Warning] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Forcing close of thread 28  user: 'root'
+
+190112 20:57:28  InnoDB: Starting shutdown...
+190112 20:57:30  InnoDB: Shutdown completed; log sequence number 0 64255
+190112 20:57:30 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190112 21:00:09  InnoDB: Started; log sequence number 0 64255
+190112 21:00:13 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190112 21:03:32 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190112 21:03:32  InnoDB: Starting shutdown...
+190112 21:03:35  InnoDB: Shutdown completed; log sequence number 0 64255
+190112 21:03:35 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190112 21:20:23  InnoDB: Started; log sequence number 0 64255
+190112 21:20:23 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190112 21:20:41 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190112 21:20:41  InnoDB: Starting shutdown...
+190112 21:20:43  InnoDB: Shutdown completed; log sequence number 0 64255
+190112 21:20:43 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190112 21:29:00  InnoDB: Started; log sequence number 0 64255
+190112 21:29:00 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190112 22:00:44 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190112 22:00:46 [Warning] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Forcing close of thread 4  user: 'root'
+
+190112 22:00:46 [Warning] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Forcing close of thread 3  user: 'root'
+
+190112 22:00:46 [Warning] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Forcing close of thread 1  user: 'root'
+
+190112 22:00:46  InnoDB: Starting shutdown...
+190112 22:00:48  InnoDB: Shutdown completed; log sequence number 0 65917
+190112 22:00:48 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190112 23:06:23  InnoDB: Started; log sequence number 0 65917
+190112 23:06:23 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190113  0:35:53 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190113  0:35:53  InnoDB: Starting shutdown...
+190113  0:35:56  InnoDB: Shutdown completed; log sequence number 0 89710
+190113  0:35:56 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190113  7:18:15  InnoDB: Started; log sequence number 0 89710
+190113  7:18:16 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190113  8:13:23 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190113  8:13:23  InnoDB: Starting shutdown...
+190113  8:13:25  InnoDB: Shutdown completed; log sequence number 0 93019
+190113  8:13:25 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190113 20:43:58  InnoDB: Started; log sequence number 0 93019
+190113 20:43:58 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190113 23:23:12 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190113 23:23:12  InnoDB: Starting shutdown...
+190113 23:23:14  InnoDB: Shutdown completed; log sequence number 0 101024
+190113 23:23:14 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190114  7:19:05  InnoDB: Started; log sequence number 0 101024
+190114  7:19:06 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190114  8:19:44 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190114  8:19:44  InnoDB: Starting shutdown...
+190114  8:19:46  InnoDB: Shutdown completed; log sequence number 0 101034
+190114  8:19:46 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190114 21:10:50  InnoDB: Started; log sequence number 0 101034
+190114 21:10:50 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190115  0:06:30 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190115  0:06:31  InnoDB: Starting shutdown...
+190115  0:06:33  InnoDB: Shutdown completed; log sequence number 0 101167
+190115  0:06:33 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190117 19:06:53  InnoDB: Started; log sequence number 0 101167
+190117 19:06:54 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190117 23:37:22 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190117 23:37:23  InnoDB: Starting shutdown...
+190117 23:37:25  InnoDB: Shutdown completed; log sequence number 0 113868
+190117 23:37:25 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190118 20:52:30  InnoDB: Started; log sequence number 0 113868
+190118 20:52:31 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190118 23:19:24 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190118 23:19:24  InnoDB: Starting shutdown...
+190118 23:19:29  InnoDB: Shutdown completed; log sequence number 0 167394
+190118 23:19:29 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190119  7:12:14  InnoDB: Started; log sequence number 0 167394
+190119  7:12:15 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190119  7:33:20 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190119  7:33:20  InnoDB: Starting shutdown...
+190119  7:33:22  InnoDB: Shutdown completed; log sequence number 0 167574
+190119  7:33:22 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190119 19:38:00  InnoDB: Started; log sequence number 0 167574
+190119 19:38:00 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190119 23:42:04 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190119 23:42:05  InnoDB: Starting shutdown...
+190119 23:42:08  InnoDB: Shutdown completed; log sequence number 0 173708
+190119 23:42:08 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190120  7:23:32  InnoDB: Started; log sequence number 0 173708
+190120  7:23:32 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190120  8:08:48 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190120  8:08:48  InnoDB: Starting shutdown...
+190120  8:08:50  InnoDB: Shutdown completed; log sequence number 0 177495
+190120  8:08:50 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190120 21:53:59  InnoDB: Started; log sequence number 0 177495
+190120 21:53:59 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190120 23:28:49 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190120 23:28:50  InnoDB: Starting shutdown...
+190120 23:28:52  InnoDB: Shutdown completed; log sequence number 0 177495
+190120 23:28:52 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190122 17:04:20  InnoDB: Started; log sequence number 0 177495
+190122 17:04:22 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190122 17:20:43 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190122 17:20:44  InnoDB: Starting shutdown...
+190122 17:20:47  InnoDB: Shutdown completed; log sequence number 0 177495
+190122 17:20:47 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190122 17:33:02  InnoDB: Started; log sequence number 0 177495
+190122 17:33:02 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190122 18:24:51 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190122 18:24:51  InnoDB: Starting shutdown...
+190122 18:24:54  InnoDB: Shutdown completed; log sequence number 0 188766
+190122 18:24:54 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190122 21:54:43  InnoDB: Started; log sequence number 0 188766
+190122 21:54:45 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190122 23:48:35 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190122 23:48:35  InnoDB: Starting shutdown...
+190122 23:48:39  InnoDB: Shutdown completed; log sequence number 0 188766
+190122 23:48:39 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190123 14:41:53  InnoDB: Started; log sequence number 0 188766
+190123 14:41:53 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190123 16:25:08 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190123 16:25:09  InnoDB: Starting shutdown...
+190123 16:25:10  InnoDB: Shutdown completed; log sequence number 0 188766
+190123 16:25:10 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190123 20:52:17  InnoDB: Started; log sequence number 0 188766
+190123 20:52:18 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190123 23:22:38 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190123 23:22:38  InnoDB: Starting shutdown...
+190123 23:22:41  InnoDB: Shutdown completed; log sequence number 0 203818
+190123 23:22:41 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190124  7:19:01  InnoDB: Started; log sequence number 0 203818
+190124  7:19:01 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190124  8:19:49 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190124  8:19:49  InnoDB: Starting shutdown...
+190124  8:19:51  InnoDB: Shutdown completed; log sequence number 0 203818
+190124  8:19:51 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190124 20:40:06  InnoDB: Started; log sequence number 0 203818
+190124 20:40:15 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190124 22:59:55 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190124 22:59:55  InnoDB: Starting shutdown...
+190124 22:59:58  InnoDB: Shutdown completed; log sequence number 0 203818
+190124 22:59:58 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190125  9:24:03  InnoDB: Started; log sequence number 0 203818
+190125  9:24:05 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190125 13:26:03 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190125 13:26:03  InnoDB: Starting shutdown...
+190125 13:26:04  InnoDB: Shutdown completed; log sequence number 0 205018
+190125 13:26:04 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190125 22:01:18  InnoDB: Started; log sequence number 0 205018
+190125 22:01:19 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190125 23:57:51 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190125 23:57:52  InnoDB: Starting shutdown...
+190125 23:57:56  InnoDB: Shutdown completed; log sequence number 0 205057
+190125 23:57:56 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190126  7:43:08  InnoDB: Started; log sequence number 0 205057
+190126  7:43:08 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190126  8:13:51 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190126  8:13:51  InnoDB: Starting shutdown...
+190126  8:13:54  InnoDB: Shutdown completed; log sequence number 0 205057
+190126  8:13:54 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190126 15:06:24  InnoDB: Started; log sequence number 0 205057
+190126 15:06:24 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190126 16:47:28 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190126 16:47:28  InnoDB: Starting shutdown...
+190126 16:47:31  InnoDB: Shutdown completed; log sequence number 0 205057
+190126 16:47:31 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190126 18:09:22  InnoDB: Started; log sequence number 0 205057
+190126 18:09:22 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190126 23:59:16 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190126 23:59:16  InnoDB: Starting shutdown...
+190126 23:59:21  InnoDB: Shutdown completed; log sequence number 0 297342
+190126 23:59:21 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190127  7:34:22  InnoDB: Started; log sequence number 0 297342
+190127  7:34:26 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190127  8:12:32 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190127  8:12:32  InnoDB: Starting shutdown...
+190127  8:12:33  InnoDB: Shutdown completed; log sequence number 0 307610
+190127  8:12:33 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190127 20:48:15  InnoDB: Started; log sequence number 0 307610
+190127 20:48:16 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190127 23:23:33 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190127 23:23:33  InnoDB: Starting shutdown...
+190127 23:23:36  InnoDB: Shutdown completed; log sequence number 0 307649
+190127 23:23:36 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190128 14:21:18  InnoDB: Started; log sequence number 0 307649
+190128 14:21:20 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190128 15:04:49 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190128 15:04:49  InnoDB: Starting shutdown...
+190128 15:04:52  InnoDB: Shutdown completed; log sequence number 0 307649
+190128 15:04:52 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190128 15:17:01  InnoDB: Started; log sequence number 0 307649
+190128 15:17:02 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190128 15:48:31 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190128 15:48:31  InnoDB: Starting shutdown...
+190128 15:48:32  InnoDB: Shutdown completed; log sequence number 0 307649
+190128 15:48:32 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190128 17:56:31  InnoDB: Started; log sequence number 0 307649
+190128 17:56:32 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190128 23:20:11 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190128 23:20:11  InnoDB: Starting shutdown...
+190128 23:20:14  InnoDB: Shutdown completed; log sequence number 0 307649
+190128 23:20:14 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190129 12:42:36  InnoDB: Started; log sequence number 0 307649
+190129 12:42:38 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190129 13:55:35 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190129 13:55:35  InnoDB: Starting shutdown...
+190129 13:55:38  InnoDB: Shutdown completed; log sequence number 0 307649
+190129 13:55:38 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190129 14:01:31  InnoDB: Started; log sequence number 0 307649
+190129 14:01:31 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190129 16:25:50 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190129 16:25:50  InnoDB: Starting shutdown...
+190129 16:25:53  InnoDB: Shutdown completed; log sequence number 0 307649
+190129 16:25:53 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190129 17:26:42  InnoDB: Started; log sequence number 0 307649
+190129 17:26:42 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190130  0:31:10 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190130  0:31:10  InnoDB: Starting shutdown...
+190130  0:31:12  InnoDB: Shutdown completed; log sequence number 0 307649
+190130  0:31:12 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190130 20:51:00  InnoDB: Started; log sequence number 0 307649
+190130 20:51:00 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190130 23:38:54 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190130 23:38:55  InnoDB: Starting shutdown...
+190130 23:38:56  InnoDB: Shutdown completed; log sequence number 0 307649
+190130 23:38:57 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190131 14:12:14  InnoDB: Started; log sequence number 0 307649
+190131 14:12:44 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190131 15:07:23 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190131 15:07:23  InnoDB: Starting shutdown...
+190131 15:07:26  InnoDB: Shutdown completed; log sequence number 0 307649
+190131 15:07:26 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190131 18:54:58  InnoDB: Started; log sequence number 0 307649
+190131 18:55:00 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190131 23:06:41 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190131 23:06:41  InnoDB: Starting shutdown...
+190131 23:06:46  InnoDB: Shutdown completed; log sequence number 0 319857
+190131 23:06:46 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190201  8:30:56  InnoDB: Started; log sequence number 0 319857
+190201  8:30:56 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190201 17:18:53 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190201 17:18:53  InnoDB: Starting shutdown...
+190201 17:18:56  InnoDB: Shutdown completed; log sequence number 0 337637
+190201 17:18:56 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190201 18:35:10  InnoDB: Started; log sequence number 0 337637
+190201 18:35:12 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190202  0:25:23 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190202  0:25:23  InnoDB: Starting shutdown...
+190202  0:25:27  InnoDB: Shutdown completed; log sequence number 0 381226
+190202  0:25:27 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190202 20:51:34  InnoDB: Started; log sequence number 0 381226
+190202 20:51:35 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190202 23:33:09 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190202 23:33:09  InnoDB: Starting shutdown...
+190202 23:33:12  InnoDB: Shutdown completed; log sequence number 0 381226
+190202 23:33:12 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190203 15:45:29  InnoDB: Started; log sequence number 0 381226
+190203 15:45:30 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190204  0:29:57 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190204  0:29:57  InnoDB: Starting shutdown...
+190204  0:30:00  InnoDB: Shutdown completed; log sequence number 0 429105
+190204  0:30:00 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190204 17:22:35  InnoDB: Started; log sequence number 0 429105
+190204 17:22:35 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190204 18:23:29 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190204 18:23:29  InnoDB: Starting shutdown...
+190204 18:23:31  InnoDB: Shutdown completed; log sequence number 0 429105
+190204 18:23:31 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190204 19:07:37  InnoDB: Started; log sequence number 0 429105
+190204 19:07:39 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190204 22:18:30 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190204 22:18:31  InnoDB: Starting shutdown...
+190204 22:18:32  InnoDB: Shutdown completed; log sequence number 0 437454
+190204 22:18:32 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190205  7:48:28  InnoDB: Started; log sequence number 0 437454
+190205  7:48:28 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190205  8:13:27 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190205  8:13:27  InnoDB: Starting shutdown...
+190205  8:13:31  InnoDB: Shutdown completed; log sequence number 0 437464
+190205  8:13:31 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190205 14:28:11  InnoDB: Started; log sequence number 0 437464
+190205 14:28:15 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190205 23:33:25 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190205 23:33:25  InnoDB: Starting shutdown...
+190205 23:33:29  InnoDB: Shutdown completed; log sequence number 0 494168
+190205 23:33:30 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190205 23:40:44  InnoDB: Started; log sequence number 0 494168
+190205 23:40:49 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190205 23:54:37 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Normal shutdown
+
+190205 23:54:37  InnoDB: Starting shutdown...
+190205 23:54:40  InnoDB: Shutdown completed; log sequence number 0 494168
+190205 23:54:40 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: Shutdown complete
+
+190206  7:52:37  InnoDB: Started; log sequence number 0 494168
+190206  7:52:37 [Note] C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqld-nt: ready for connections.
+Version: '5.0.41-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+190206 11:47:44190206 11:47:44 [ERROR] Cannot find table project_database/manager from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:44190206 11:47:44 [ERROR] Cannot find table project_database/manager from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:44190206 11:47:44 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:44190206 11:47:44 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:44190206 11:47:44 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:44190206 11:47:44 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:44190206 11:47:44 [ERROR] Cannot find table project_database/sold_item from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:44190206 11:47:44 [ERROR] Cannot find table project_database/sold_item from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:44190206 11:47:44 [ERROR] Cannot find table project_database/temp_cart from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:44190206 11:47:44 [ERROR] Cannot find table project_database/temp_cart from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:47190206 11:47:47 [ERROR] Cannot find table project_database/manager from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:47190206 11:47:47 [ERROR] Cannot find table project_database/manager from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:47190206 11:47:47 [ERROR] Cannot find table project_database/manager from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:47190206 11:47:47 [ERROR] Cannot find table project_database/manager from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:47190206 11:47:47 [ERROR] Cannot find table project_database/manager from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:47190206 11:47:47 [ERROR] Cannot find table project_database/manager from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:47190206 11:47:47 [ERROR] Cannot find table project_database/manager from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:47190206 11:47:47 [ERROR] Cannot find table project_database/manager from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:47190206 11:47:47 [ERROR] Cannot find table project_database/manager from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:47190206 11:47:47 [ERROR] Cannot find table project_database/manager from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:48190206 11:47:48 [ERROR] Cannot find table project_database/manager from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:48190206 11:47:48 [ERROR] Cannot find table project_database/manager from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:48190206 11:47:48 [ERROR] Cannot find table project_database/manager from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:48190206 11:47:48 [ERROR] Cannot find table project_database/manager from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:49190206 11:47:49 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:49190206 11:47:49 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:49190206 11:47:49 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:49190206 11:47:49 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:49190206 11:47:49 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:49190206 11:47:49 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:49190206 11:47:49 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:49190206 11:47:49 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:49190206 11:47:49 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:49190206 11:47:49 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:50190206 11:47:50 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:50190206 11:47:50 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:50190206 11:47:50 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:50190206 11:47:50 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:50190206 11:47:50 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:50190206 11:47:50 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:50190206 11:47:50 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:50190206 11:47:50 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:50190206 11:47:50 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:50190206 11:47:50 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:52190206 11:47:52 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:52190206 11:47:52 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:52190206 11:47:52 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:52190206 11:47:52 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:52190206 11:47:52 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:52190206 11:47:52 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:53190206 11:47:53 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:53190206 11:47:53 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:53190206 11:47:53 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:53190206 11:47:53 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:53190206 11:47:53 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:53190206 11:47:53 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:55190206 11:47:55 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:55190206 11:47:55 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:55190206 11:47:55 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:55190206 11:47:55 [ERROR] Cannot find table project_database/menu from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:57190206 11:47:57 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:57190206 11:47:57 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:57190206 11:47:57 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:57190206 11:47:57 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:57190206 11:47:57 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:57190206 11:47:57 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:57190206 11:47:57 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:57190206 11:47:57 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:57190206 11:47:57 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:57190206 11:47:57 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:57190206 11:47:57 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:57190206 11:47:57 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
+190206 11:47:58190206 11:47:58 [ERROR] Cannot find table project_database/sales_man from the internal data dictionary
+of InnoDB though the .frm file for the table exists. Maybe you
+have deleted and recreated InnoDB data files but have forgotten
+to delete the corresponding .frm files of InnoDB tables, or you
+have moved .frm files to another database?
+See http://dev.mysql.com/doc/refman/5.0/en/innodb-troubleshooting.html
+how you can resolve the problem.
+
